@@ -18,7 +18,7 @@ const doExperiment = async (nSinks) => {
   console.log("res.length", res.length);
 };
 
-doExperiment(3);
+doExperiment(10000);
 
 
 
